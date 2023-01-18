@@ -1,0 +1,34 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+strong {
+    text-shadow: 5px 5px 5px gray;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.writer {
+    display: flex;
+    justify-content: center;
+    font-size: 5;
+    font-style: italic;
+    color: #EFF5F5;
+
+}
+
+.content {
+    display: flex;
+    justify-content: space-evenly;
+    color: #EFF5F5;
+    font-size: 10;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #6B728E;
+}
